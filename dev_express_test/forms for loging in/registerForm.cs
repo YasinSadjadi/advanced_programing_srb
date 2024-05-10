@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using advanced_programing_projrct.models;
+using advanced_programing_projrct.models.Doctor;
 using ap_proj.forms_for_loging_in;
 using DevExpress.XtraEditors;
 using Microsoft.EntityFrameworkCore;
